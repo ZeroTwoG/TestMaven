@@ -217,7 +217,7 @@
  .two_down {
 
    border: none;
-   background: url(/img/mc_cao.png)no-repeat center/90px 90px;
+   background: url(../img/mc_cao.png)no-repeat center/90px 90px;
    background-position: 0px 1px;
    margin-top: 10px;
    height: 60px;
